@@ -1,0 +1,10 @@
+username aditya
+password 123456
+
+master tumbuhan
+
+data list tumbuhan
+
+code nama status 
+
+report
